@@ -21,7 +21,7 @@ I'm an aspiring indie full-stack developer, software engineer, and games develop
 
 ### 📊 Stats
 
-![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydenLBell&show_icons=true&theme=gruvbox)
+![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydenLBell&show_icons=true&theme=calm_pink)
 
 
 #
